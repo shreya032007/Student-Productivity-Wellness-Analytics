@@ -28,6 +28,7 @@ The dataset contains information related to students' daily activities and produ
 * NumPy
 * Matplotlib
 * Seaborn
+* Plotly
 * Jupyter Notebook
 
 ## EDA Process
@@ -61,6 +62,6 @@ The dataset contains information related to students' daily activities and produ
 
 ## Author
 
-Shreya Nag
-B.Tech Mechanical Engineering
+Shreya Nag|
+B.Tech Mechanical Engineering|
 National Institute of Technology Agartala
